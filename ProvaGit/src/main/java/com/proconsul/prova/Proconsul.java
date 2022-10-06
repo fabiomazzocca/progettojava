@@ -17,4 +17,13 @@ public class Proconsul {
 		this.firstName = firstName;
 	}
 	
+	
+	//---------------------------------------------------------//
+	
+	public Proconsul(String lastName, String firstName) {
+		this.lastName = lastName;
+		this.firstName = firstName;
+	}
+	
+	
 }
