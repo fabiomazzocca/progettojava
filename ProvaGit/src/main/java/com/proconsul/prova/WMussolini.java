@@ -1,6 +1,6 @@
 package com.proconsul.prova;
 
-public class WMussolini {
+public class WMussolini extends W_hitler{
 	
 	private String Hitler;
 
