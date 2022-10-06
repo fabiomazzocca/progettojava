@@ -1,6 +1,5 @@
 package com.proconsul.prova;
 
-public class Prova {
-
+public class Ciao1234 {
 
 }
